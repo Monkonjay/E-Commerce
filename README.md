@@ -48,7 +48,16 @@ THEN I am able to successfully create, update, and delete data in my database
 ### Links
 
 - Solution URL: [E-Commerce](https://github.com/Monkonjay/E-Commerce)
-- Live Site: [Video Demo]()
+
+- Video Demo: [GET Routes for all Categories, Products, Tags](https://drive.google.com/file/d/18xV6HPOcLHu_XxONpWlBqhptsFph5DFR/view)
+
+- Video Demo: [GET Routes for a single Category, Product, Tag](https://drive.google.com/file/d/1U-vTZ8Kn6oTQMtnTa2ksLBE8v1gmFjec/view)
+
+- Video Demo: [POST, PUT, DELETE for Categories](https://drive.google.com/file/d/1-boVV80x9Gr4GXprQKR8nLv-UXCi02UQ/view)
+
+- Video Demo: [POST, PUT, DELETE for Products](https://drive.google.com/file/d/1mfbO7p_MkO04xQ58U0E-iKIgOjYDivZj/view)
+
+- Video Demo: [POST, PUT, DELETE for Tags](https://drive.google.com/file/d/15XJ1hMjDyP_Pd0RhUao50SSzV9II3F9A/view)
 
 ## My process
 
